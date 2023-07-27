@@ -1,0 +1,42 @@
+KERUSAKAN1: Hardisk
+muncul bunyi-bunyi aneh
+performa laptop lambat saat menjalankan apk / membuka file
+laptop hang / sering tidak responsif
+kehilangan selera makan
+muncul pesan kesalahan seperti (disk read error occured, disk boot faillure,not bootable device found)
+file rusak / hilang
+suhu laptop tinggi / panas berlebihan
+laptop hanya bisa hidup sampai logo windows
+
+
+KERUSAKAN2: Ram
+blue screen of the death
+penurunan kinerja secara keseluruhan
+kegagalan boot saat restart yang sering terjadi
+layar membeku, berkedip / tiba-tiba mati
+bunyi beep saat booting
+mengalami error / kesalahan saat melakukan tugas tertentu
+
+KERUSAKAN3: Sistem Operasi
+performa laptop lambat saat menjalankan apk / membuka file
+laptop hang / sering tidak responsive
+blue screen of the death
+muncul pesan kesalahan seperti (aplikasi tidak merespons / file tidak ditemukan)
+laptop sulit booting / tidak dapat booting
+file rusak / hilang
+start menu tidak dapat dijalankan
+prosedur shutdown tidak dapat dijalankan
+
+KERUSAKAN4: Motherboard
+laptop tidak menyala / tidak ada tanda-tanda kehidupan
+suara beep yang berulang saat booting
+tidak ada tampilan / tampilan buram
+usb dan port lainnya tidak berfungsi
+laptop mati mendadak (bukan karena habis batrai)
+
+KERUSAKAN5 : Batrai
+kapasitas daya cepat berkurang
+pengisian daya lambat
+batrai panas saat mengisi daya
+batrai bengkak
+muncul tanda silang di logo batrai

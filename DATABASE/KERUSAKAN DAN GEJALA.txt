@@ -1,0 +1,53 @@
+TOTAL KERUSAKAN LAPTOP: 5
+
+Hardisk
+Ram
+Sistem Operasi
+Motherboard
+Batrai
+
+
+TOTAL GEJALA KERUSAKAN LAPTOP: 27
+
+muncul bunyi-bunyi aneh
+performa laptop lambat saat menjalankan apk / membuka file
+laptop hang / sering tidak responsif
+muncul pesan kesalahan seperti (disk read error occured, disk boot faillure,not bootable device found)
+file rusak / hilang
+suhu laptop tinggi / panas berlebihan
+laptop hanya bisa hidup sampai logo windows
+blue screen of the death
+penurunan kinerja secara keseluruhan
+kegagalan boot saat restart yang sering terjadi
+layar membeku, berkedip / tiba-tiba mati
+bunyi beep saat booting
+mengalami error / kesalahan saat melakukan tugas tertentu
+muncul pesan kesalahan seperti (aplikasi tidak merespons / file tidak ditemukan)
+laptop sulit booting / tidak dapat booting
+start menu tidak dapat dijalankan
+prosedur shutdown tidak dapat dijalankan
+laptop tidak menyala / tidak ada tanda-tanda kehidupan
+suara beep yang berulang saat booting
+tidak ada tampilan / tampilan buram
+usb dan port lainnya tidak berfungsi
+laptop mati mendadak (bukan karena habis batrai)
+kapasitas daya cepat berkurang
+pengisian daya lambat
+batrai panas saat mengisi daya
+batrai bengkak
+muncul tanda silang di logo batrai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
